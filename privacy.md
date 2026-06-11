@@ -35,4 +35,4 @@ adding optional iCloud sync), this policy will be updated and the change will be
 clearly noted in the App Store release notes before it takes effect.
 
 ## Contact
-Questions: cadenwurzbacher@gmail.com
+Questions: caden@cadenwurzbacher.com

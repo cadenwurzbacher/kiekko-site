@@ -8,7 +8,7 @@ Kiekko is a fully offline app that teaches Finnish through a 30-chapter hockey s
 
 ## Get help
 
-Questions, bug reports, or feedback: email **cadenwurzbacher@gmail.com** and you will get a reply within a few days.
+Questions, bug reports, or feedback: email **caden@cadenwurzbacher.com** and you will get a reply within a few days.
 
 ## Privacy
 
