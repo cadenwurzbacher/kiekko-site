@@ -45,9 +45,10 @@ is stored locally on your device using Apple's standard app storage
 Deleting the app deletes this data.
 
 ## Text-to-speech
-Story audio is bundled with the app or generated on-device by Apple's built-in
-iOS text-to-speech voices. Kiekko does not send story text or speech recordings
-to our servers.
+Most story audio was generated before release with Microsoft Azure neural speech
+and is bundled inside the app. For text without a bundled clip, Kiekko can use
+Apple's on-device text-to-speech voices. The live app does not call Azure or send
+story text or speech recordings to our servers.
 
 ## Children's privacy
 Kiekko is not directed to children under 13. We do not knowingly collect
