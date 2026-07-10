@@ -4,35 +4,59 @@ permalink: /privacy/
 
 # Kiekko Privacy Policy
 
-**Effective date: June 10, 2026**
+**Effective date: July 10, 2026**
 
-Kiekko ("the app") is a fully offline Finnish language learning app published by
-Caden Wurzbacher ("we", "us").
+Kiekko ("the app") is a Finnish language learning app published by Caden
+Wurzbacher ("we", "us").
 
 ## The short version
-We collect nothing. Everything stays on your device.
+Your learning progress stays on your device and no account is required. The app
+uses Google services to show and measure occasional ads. Those services may
+collect the data described below.
 
-## What data the app collects
-**None.** Kiekko has no user accounts, no analytics, no advertising, no
-third-party SDKs, and makes **no network connections**. All story content and
-translations are bundled inside the app.
+## Advertising and consent
+Kiekko uses the Google Mobile Ads SDK to show occasional interstitial ads and
+Google's User Messaging Platform to manage consent choices. Depending on your
+device, region, consent choices, and App Tracking Transparency setting, Google
+may process:
+
+- IP address and approximate location
+- Device identifiers, including the advertising identifier when permitted
+- Advertising data, such as ads viewed
+- Product interactions and app usage data
+- Crash logs, performance data, and other diagnostics
+
+Google may use this information to deliver and measure ads, perform analytics,
+prevent abuse, and improve its services. Some identifiers and usage information
+may be used to track activity across apps or websites when applicable and
+permitted. You can decline Apple's tracking prompt and still use every learning
+feature. Where required, a **Privacy choices** button appears in the app's
+Profile tab so you can review or change advertising consent.
+
+For more information, see Google's privacy policy and advertising controls:
+
+- https://policies.google.com/privacy
+- https://myadcenter.google.com/
 
 ## What stays on your device
 Your learning progress (XP, streaks, completed chapters, words you've looked up)
 is stored locally on your device using Apple's standard app storage
-(UserDefaults). It never leaves your device. Deleting the app deletes this data.
+(UserDefaults). Kiekko does not send this learning record to our servers.
+Deleting the app deletes this data.
 
 ## Text-to-speech
-Audio is generated on-device by Apple's built-in iOS text-to-speech voices.
-No audio or text is sent anywhere.
+Story audio is bundled with the app or generated on-device by Apple's built-in
+iOS text-to-speech voices. Kiekko does not send story text or speech recordings
+to our servers.
 
 ## Children's privacy
-The app collects no data from anyone, including children.
+Kiekko is not directed to children under 13. We do not knowingly collect
+children's personal information directly. Google advertising services operate
+subject to consent, device, and regional requirements.
 
 ## Changes to this policy
-If a future version of the app ever changes any of the above (for example,
-adding optional iCloud sync), this policy will be updated and the change will be
-clearly noted in the App Store release notes before it takes effect.
+We may update this policy when the app or third-party services change. The
+effective date above identifies the latest revision.
 
 ## Contact
 Questions: caden@cadenwurzbacher.com
